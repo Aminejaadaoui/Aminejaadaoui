@@ -2,9 +2,7 @@
 - 👀 I’m interested in data science and statistics for ecology and environmental research
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on research projects in ecology, conservation and environment
-- 📫 How to reach me :
-      Email: aminejaadaoui1@gmail.com
-      Linkedin: /in/aminejaadaoui
+- 📫 How to reach me...
 
 <!---
 Aminejaadaoui/Aminejaadaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
